@@ -2,8 +2,12 @@
 *.h linguist-language=C
 
 *.png linguist-generated
+*.jpg linguist-generated
+*.jpeg linguist-generated
+*.gif linguist-generated
+*.mp3 linguist-generated
+*.mp4 linguist-generated
 
-* linguist-generated
-!*.c
-!*.h
-!*.md
+frames/* linguist-generated
+
+output/* linguist-generated
