@@ -1,4 +1,4 @@
-#define USE_MULTICORE 1
+#define USE_MULTICORE 0
 
 #include <stdio.h>
 #include <string.h>
