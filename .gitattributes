@@ -1,0 +1,9 @@
+*.c linguist-language=C
+*.h linguist-language=C
+
+*.png linguist-generated
+
+* linguist-generated
+!*.c
+!*.h
+!*.md
